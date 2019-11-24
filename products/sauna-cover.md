@@ -22,7 +22,6 @@ images:
 category: summer
 featured: true
 section: Store
-published: false
 
 ---
 Custom made sauna covers!
